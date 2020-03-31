@@ -64,9 +64,10 @@ iboltax improved faces
 vasili s for scenery base
 jbvw for potion icons
 Arsakes for Hysh effect and models
-Shaunremo for skyboxes
 
-
+antti martikainen https://anttimartikainen.com/ for music
+ben sound https://www.bensound.com/ for music
+darren curtis https://www.youtube.com/user/DesperateMeasurez for music
 
 Contributors and all those who have worked with me on Warsword or Warsword Conquest in the past or helped us out.
 
